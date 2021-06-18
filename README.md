@@ -42,8 +42,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 The purpose of the TreePeeps app is to support sustainability and reforestation through helping people bring together the land, time and funding necessary to create small to medium forested areas. The core functionality of the app is to allow people to post one of three resources to other users: land available for planting trees, the time and energy needed to actually plant trees and the trees themselves or financial support to purchase them, on whatever scale is appropriate.
 In addition, the app should provide a means of tracking and/or monitoring projects and trees. The app should be able to flag tree-planting sites through use of the What3Words app, or something similar. Progress of sites can then be tracked through user-posted blogs and images.
 App Details
@@ -55,6 +53,31 @@ The App will allow users to post requests for land, trees or other resources, or
 ·        Additional functionality may include:
 o   A blog in which to post success stories facilitated by the app, posting details of trees planted so far.
 
+Here are some screenshots of how the application appears in the web browser:
+
+1. Home Page:
+
+![Homepage](https://user-images.githubusercontent.com/73832871/122608123-9dab5580-d073-11eb-9671-e0e91a809b61.JPG)
+
+2. Signup Page:
+
+![Signup](https://user-images.githubusercontent.com/73832871/122608147-a439cd00-d073-11eb-9088-7b2e9ebe823b.JPG)
+
+3. Login Page:
+
+![login](https://user-images.githubusercontent.com/73832871/122608157-a734bd80-d073-11eb-8ced-bebf115c07c9.JPG)
+
+4. Dashboard:
+
+![Dashboard](https://user-images.githubusercontent.com/73832871/122608169-aac84480-d073-11eb-9ff2-dbaeff58ed5d.JPG)
+
+5. About Page:
+
+![About](https://user-images.githubusercontent.com/73832871/122608451-21fdd880-d074-11eb-8da5-f9810ff86768.JPG)
+
+6. Contact Page:
+
+![Contact](https://user-images.githubusercontent.com/73832871/122608460-26c28c80-d074-11eb-993f-789037c78074.JPG)
 
 ### Built With
 
@@ -134,77 +157,3 @@ Project Link - [TreePeeps]([https://github.com/drewbassett24/TreePeeps)
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Pages](https://pages.github.com)
 * [Loaders.css](https://connoratherton.com/loaders)
-
-
-=======
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
